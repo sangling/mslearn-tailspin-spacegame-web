@@ -1,3 +1,4 @@
+[![Build Status](https://buffalocity.visualstudio.com/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status/sangling.mslearn-tailspin-spacegame-web?branchName=master)](https://buffalocity.visualstudio.com/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
